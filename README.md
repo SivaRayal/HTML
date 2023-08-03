@@ -1,6 +1,6 @@
 ### HTML Basic Exercise - 1
 Author - Siva Kuruva.   
-Email - Sivasai.Kuruva@ness.com
+Email - kuruva.siva8055@gmail.com
 
 ### Problem Statement
 Create HTML website of an online electronics store with below mentioned requirements
